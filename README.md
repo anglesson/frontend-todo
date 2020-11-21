@@ -64,4 +64,4 @@ Pronto! Sua aplicação estará disponível em http://localhost:8080
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2020 - Calculadora - React
+Copyright :copyright: 2020 - Frontend TodoList - React
