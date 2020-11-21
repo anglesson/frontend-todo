@@ -25,10 +25,10 @@
 
 ### Funcionalidades
 
-- [x] Adicionar tarefas à lista
+- [x] Adicionar tarefas à lista - Atalho `Enter`
 - [x] Marcar tarefa como concluída/não concluída
 - [x] Excluir tarefas
-- [x] Pesquisar tarefas
+- [x] Pesquisar tarefas - Atalho `Shift` + `Enter`
 - [x] Teclas de atalhos
 
 ### Pré Requisitos
